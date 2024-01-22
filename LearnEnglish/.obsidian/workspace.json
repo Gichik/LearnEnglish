@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "4d7950363690fcea",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f078360462c81c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebf5821480393344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Все ссылки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d58f5dae28a6bb01",
+    "type": "split",
+    "children": [
+      {
+        "id": "5919ec8bedd6e26e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77346a7d9a694a24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55db78185e4b98ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "193d61ae6644fbf9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d30a729b16232ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca51e06516137b74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7f1f6c81825e6ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Все ссылки.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44932942e2658451",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Все ссылки.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d0fb4deec14e255",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "59072eca765ae81e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Все ссылки.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ebf5821480393344",
+  "lastOpenFiles": [
+    "There is - There are.md",
+    "Все ссылки.md",
+    "Next to - By - Beside - Near - Behind.md",
+    "In front of и Opposite.md",
+    "Between и Among.md",
+    "Шаблоны/Обычный шаблон.md",
+    "Below и Under.md",
+    "Above и Over.md",
+    "On.md",
+    "In.md",
+    "At.md",
+    "Шаблоны"
+  ]
+}
